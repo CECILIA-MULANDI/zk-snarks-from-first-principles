@@ -18,6 +18,8 @@ something did not click the first time.
 | 5 | Additive Inverses in Modular Arithmetic | Done. Notes in `chunk5:Additive_Inverses_in_Modular_Arithmetic.md` |
 | 6 | Introduction to Finite Fields | In progress. Notes in `chunk6:Introduction_to_Finite_Fields.md` |
 | 7 | Precursors to Group Theory | Done. Notes in `chunk7:Precursors_to_Group_Theory.md` |
+| 8 | Matrices and Vectors in Modular Arithmetic | In progress. Notes in `chunk8:Matrices_and_Vectors_in_Modular_Arithmetic.md` |
+| 9 | Multiplicative Inverses in Modular Arithmetic | In progress. Notes in `chunk9:Multiplicative_Inverses_in_Modular_Arithmetic.md` |
 
 ## How to read a chunk file
 
