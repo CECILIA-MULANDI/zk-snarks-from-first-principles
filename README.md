@@ -16,9 +16,9 @@ something did not click the first time.
 | 3 | Congruence and Modular Arithmetic | Done. Notes in `chunk3:Congruence_and_Modular_Arithmetic.md` |
 | 4 | Geometric Properties of Elliptic Curves | Done. Notes in `chunk4:Geometric_Properties_of_Elliptic_Curves.md` |
 | 5 | Additive Inverses in Modular Arithmetic | Done. Notes in `chunk5:Additive_Inverses_in_Modular_Arithmetic.md` |
-| 6 | Introduction to Finite Fields | In progress. Notes in `chunk6:Introduction_to_Finite_Fields.md` |
+| 6 | Introduction to Finite Fields | Done. Notes in `chunk6:Introduction_to_Finite_Fields.md` |
 | 7 | Precursors to Group Theory | Done. Notes in `chunk7:Precursors_to_Group_Theory.md` |
-| 8 | Matrices and Vectors in Modular Arithmetic | In progress. Notes in `chunk8:Matrices_and_Vectors_in_Modular_Arithmetic.md` |
+| 8 | Matrices and Vectors in Modular Arithmetic | Done. Notes in `chunk8:Matrices_and_Vectors_in_Modular_Arithmetic.md` |
 | 9 | Multiplicative Inverses in Modular Arithmetic | In progress. Notes in `chunk9:Multiplicative_Inverses_in_Modular_Arithmetic.md` |
 
 ## How to read a chunk file
